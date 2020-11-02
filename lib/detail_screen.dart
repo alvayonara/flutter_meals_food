@@ -4,8 +4,6 @@ import 'package:flutter_meals_food/model/meals_model.dart';
 class DetailScreen extends StatelessWidget {
   final String id;
 
-  Meals meals;
-
   DetailScreen({this.id});
 
   @override
